@@ -1,4 +1,4 @@
-class IsPalindrome{
+class IsNumPalindrome{
     public static boolean isPalindrome(int num){
     int r,sum=0; //variable declaration
     int  temp; //variable declaration
